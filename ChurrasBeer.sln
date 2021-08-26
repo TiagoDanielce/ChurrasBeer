@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurrasBeer.Domain", "src\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurrasBeer.Infrastructure.Data", "src\ChurrasBeer.Infrastructure.Data\ChurrasBeer.Infrastructure.Data.csproj", "{485E8B7B-BEFD-4CF8-9892-4151EEC341C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurrasBeer.Infrastructure.CrossCutting", "ChurrasBeer.Infrastructure.CrossCutting\ChurrasBeer.Infrastructure.CrossCutting.csproj", "{8FA0251D-ED01-4248-B650-E14E50C1D1CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurrasBeer.Infrastructure.CrossCutting", "src\ChurrasBeer.Infrastructure.CrossCutting\ChurrasBeer.Infrastructure.CrossCutting.csproj", "{8FA0251D-ED01-4248-B650-E14E50C1D1CE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurrasBeer.Infrastructure.CrossCutting.Ioc", "src\ChurrasBeer.Infrastructure.CrossCutting.Ioc\ChurrasBeer.Infrastructure.CrossCutting.Ioc.csproj", "{7DFE58E5-84DB-4570-BAC4-1B4CC06C789B}"
 EndProject

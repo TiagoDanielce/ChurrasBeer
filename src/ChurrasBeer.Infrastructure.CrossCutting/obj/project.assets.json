@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\labs\\ChurrasBeer\\ChurrasBeer.Infrastructure.CrossCutting\\ChurrasBeer.Infrastructure.CrossCutting.csproj",
+      "projectUniqueName": "C:\\labs\\ChurrasBeer\\src\\ChurrasBeer.Infrastructure.CrossCutting\\ChurrasBeer.Infrastructure.CrossCutting.csproj",
       "projectName": "ChurrasBeer.Infrastructure.CrossCutting",
-      "projectPath": "C:\\labs\\ChurrasBeer\\ChurrasBeer.Infrastructure.CrossCutting\\ChurrasBeer.Infrastructure.CrossCutting.csproj",
+      "projectPath": "C:\\labs\\ChurrasBeer\\src\\ChurrasBeer.Infrastructure.CrossCutting\\ChurrasBeer.Infrastructure.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Tiago Danielce\\.nuget\\packages\\",
-      "outputPath": "C:\\labs\\ChurrasBeer\\ChurrasBeer.Infrastructure.CrossCutting\\obj\\",
+      "outputPath": "C:\\labs\\ChurrasBeer\\src\\ChurrasBeer.Infrastructure.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiago Danielce\\AppData\\Roaming\\NuGet\\NuGet.Config",
