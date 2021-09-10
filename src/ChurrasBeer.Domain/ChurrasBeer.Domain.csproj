@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
     <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChurrasBeer.Infrastructure.CrossCutting\ChurrasBeer.Infrastructure.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>
