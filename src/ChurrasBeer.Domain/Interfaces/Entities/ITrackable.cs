@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Interface
+namespace ChurrasBeer.Domain.Interfaces.Entities
 {
     public interface ITrackable<TUserKey>
     {

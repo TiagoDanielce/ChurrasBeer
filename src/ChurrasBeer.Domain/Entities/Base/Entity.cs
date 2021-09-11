@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Base
+namespace ChurrasBeer.Domain.Entities.Base
 {
     public abstract class Entity<TKey>
     {

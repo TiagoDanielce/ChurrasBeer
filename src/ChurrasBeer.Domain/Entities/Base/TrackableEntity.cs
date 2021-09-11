@@ -1,7 +1,7 @@
-﻿using ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Interface;
+﻿using ChurrasBeer.Domain.Interfaces.Entities;
 using System;
 
-namespace ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Base
+namespace ChurrasBeer.Domain.Entities.Base
 {
     public abstract class TrackableEntity<TKey, TUserKey> : Entity<TKey>, ITrackable<TUserKey>
     {

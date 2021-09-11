@@ -1,5 +1,5 @@
-﻿using ChurrasBeer.Infrastructure.CrossCutting.Enums;
-using ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Base;
+﻿using ChurrasBeer.Domain.Entities.Base;
+using ChurrasBeer.Infrastructure.CrossCutting.Enums;
 
 namespace ChurrasBeer.Domain.Entities
 {

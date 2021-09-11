@@ -1,4 +1,4 @@
-﻿using ChurrasBeer.Infrastructure.CrossCutting.Extensions.Entities.Base;
+﻿using ChurrasBeer.Domain.Entities.Base;
 
 namespace ChurrasBeer.Domain.Entities
 {
